@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "playpen",sans-serif;
+    box-sizing: border-box;
+}
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {    
+    .login {
+        /* width: 400px; */
+        color: aqua;
+        background: transparent;
+        border-radius: 15px;
+        padding: 30px 40px;
+        border: 2px solid rgb(107, 128, 245);
+        backdrop-filter: blur(20px);
+        box-shadow: 0 0 10px rgb(107, 128, 245);
+    }
+    
+}
+
+ 
+
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {}; */
+
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 992px) {}; */
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {}; */
+
+
+
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+    background: url(1.jpg);
+    background-size: cover;
+    background-position: center;
+     
+    
+   
+}
+
+
+.login{ 
+
+color:aqua;
+background: transparent;
+border-radius: 15px;
+padding: 30px 40px;
+border: 2px solid rgb(107, 128, 245);
+backdrop-filter: blur(20px);
+box-shadow: 0 0 10px rgb(107, 128, 245);
+}
+
+h1{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.login .input-box{
+    position: relative;
+    width:100%;
+    height: 50px;
+    margin: 30px 0;
+}
+.input-box  input{
+    width:100%;
+    height: 100%;
+    background:transparent;
+    
+    
+    
+    border-radius: 40px;    
+    font-size: 16px;
+    color:#fff;
+    padding: 20px
+
+    ;
+}
+
+.input-box input::placeholder{
+    color:#fff
+}
+
+
+.input-box i {
+position: absolute;
+right: 20px;
+top:50%;
+transform: translateY(-50%);
+font-size: 20px;
+}
+
+.login .remember
+{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+    margin: -15px 0 15px ;
+}
+
+.login label input {
+    accent-color: #fff;
+
+    margin-right: 3px;
+}
+
+.login a {
+    color:#fff;
+    text-decoration: none;
+}
+
+.login a:hover
+{
+    text-decoration: underline;
+    
+}
+
+
+.login .btn 
+{
+    width:100%;
+    height: 45px;
+    background: #fff;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px red (0,0,0,.1);
+    cursor: pointer;
+    font-size: 16px;
+    color:#333;
+    font-style: 600;
+    
+}
+
+.remeber
+{
+    margin:6px;
+}
+.text
+{
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+}
+ 
+.login,
+.login .top,
+.login .input-box,
+.login .remeber,
+.login .btn {
+    opacity: 0;
+    animation: showContent 0.5s 0.8s ease-in-out 1 forwards;
+}
+@keyframes showContent{
+    from{
+        transform: translateY(-30px);
+        filter: blur(10px);
+    }to{
+        transform: translateY(0);
+        opacity: 1;
+        filter: blur(0px);
+    }
+} 
+
+.login .top{
+    animation-delay: 1.4s;
+}
+
+.login .input-box
+{
+    animation-delay: 1.6s;
+}
+.login .remeber
+{
+    animation-delay: 1.8s;
+}
+
+.login .btn{
+    animation-delay: 2s;
+}
+
+
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {  body{width:80%  ; margin: auto }  
+.login
+{
+ 
+color:aqua;
+background: transparent;
+border-radius: 15px;
+padding: 30px 40px;
+border: 2px solid rgb(107, 128, 245);
+backdrop-filter: blur(20px);
+box-shadow: 0 0 10px rgb(107, 128, 245);
+  
+}}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) { } */
+
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {...} */
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .login
+    {
+        width: 491px;
+        
+        border-radius: 20px;
+        padding: 62px 84px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {...} */

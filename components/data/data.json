@@ -1,0 +1,257 @@
+
+   [
+    {
+      "model": "Classic Silver",
+      "price": 199.99,
+      "company": "Timeless Co.",
+      "img": "https://avatars.mds.yandex.net/i?id=ca3de51f9217848a591c337300d3f22a5daf7be7-7683610-images-thumbs&n=13"
+    },
+    {
+      "model": "Ocean Explorer",
+      "price": 249.99,
+      "company": "Marine Time",
+      "img": "https://avatars.mds.yandex.net/i?id=56e56dbffa9919e84f8198af456356e1-5987336-images-thumbs&n=13"
+    },
+    {
+      "model": "Urban Chic",
+      "price": 179.99,
+      "company": "City Style",
+      "img": "https://avatars.mds.yandex.net/i?id=e83fe5363b1359116963c443bbe3f9ea5ffa8858-8269337-images-thumbs&n=13"
+    },
+    {
+      "model": "Sport Pro X",
+      "price": 299.99,
+      "company": "Active Gear",
+      "img": "https://avatars.mds.yandex.net/i?id=4dd0e59ecfaccf9fa465b69b1ca3fa2afa0036bc-12513999-images-thumbs&n=13"
+    },
+    {
+      "model": "Vintage Leather",
+      "price": 159.99,
+      "company": "Classic Timepieces",
+      "img": "https://avatars.mds.yandex.net/i?id=1c9e04aa369e0e3556c797f07787e8a30a6cb557-9847423-images-thumbs&n=13"
+    },
+    {
+      "model": "Minimalist Black",
+      "price": 129.99,
+      "company": "Modern Design",
+      "img": "https://avatars.mds.yandex.net/i?id=c5ec5d555325f1a1f9bce6408d0ad70479f854c1-4628413-images-thumbs&n=13"
+    },
+    {
+      "model": "Golden Elegance",
+      "price": 349.99,
+      "company": "Luxury Watches",
+      "img": "https://avatars.mds.yandex.net/i?id=4713a23dba3edea46b0ee2363c8a7a5900f9b095-8087945-images-thumbs&n=13"
+    },
+    {
+      "model": "Tech Master",
+      "price": 399.99,
+      "company": "Innovate Tech",
+      "img": "https://avatars.mds.yandex.net/i?id=4dbcfba051501520aba943339613cb072c24a995-8497946-images-thumbs&n=13"
+    },
+    {
+      "model": "Classic Rose",
+      "price": 219.99,
+      "company": "Timeless Co.",
+      "img": "https://avatars.mds.yandex.net/i?id=fa637e3be6150dd3e0e4f29f6f3b863c158d1b6f-11004153-images-thumbs&n=13"
+    },
+    {
+      "model": "Aqua Force",
+      "price": 259.99,
+      "company": "Marine Time",
+      "img": "https://avatars.mds.yandex.net/i?id=6df2b05d68afe2ba7566511b8c52a70a26c16af9-10848716-images-thumbs&n=13"
+    },
+    {
+      "model": "Casual Chic",
+      "price": 189.99,
+      "company": "City Style",
+      "img": "https://avatars.mds.yandex.net/i?id=0efb823f4898b31e2db2d2cc74b7a9d9e11820b9-10310955-images-thumbs&n=13"
+    },
+    {
+      "model": "Trail Blazer",
+      "price": 309.99,
+      "company": "Active Gear",
+      "img": "https://avatars.mds.yandex.net/i?id=e4df99a046179d620cc2399e30ea04d6-5655335-images-thumbs&n=13"
+    },
+    {
+      "model": "Retro Chrome",
+      "price": 199.99,
+      "company": "Classic Timepieces",
+      "img": "https://avatars.mds.yandex.net/i?id=4e8eed3f4e03a441026c03c7295775732edc941b-9657618-images-thumbs&n=13"
+    },
+    {
+      "model": "Slim Graphite",
+      "price": 149.99,
+      "company": "Modern Design",
+      "img": "https://avatars.mds.yandex.net/i?id=5a7d6c083c0bcc6497e988f163da04585a570af1-8399918-images-thumbs&n=13"
+    },
+    {
+      "model": "Diamond Luxe",
+      "price": 499.99,
+      "company": "Luxury Watches",
+      "img": "https://avatars.mds.yandex.net/i?id=f019ee95cd5193221adb9949ff0398b9684f85bf-5219700-images-thumbs&n=13"
+    },
+    {
+      "model": "Fusion Tech",
+      "price": 429.99,
+      "company": "Innovate Tech",
+      "img": "https://avatars.mds.yandex.net/i?id=fa0d0fa7774c10d748dea8c7ef3540d50cb9b72b-10354750-images-thumbs&n=13"
+    },
+    {
+      "model": "Rosewood Classic",
+      "price": 239.99,
+      "company": "Timeless Co.",
+      "img": "https://avatars.mds.yandex.net/i?id=fa0d0fa7774c10d748dea8c7ef3540d50cb9b72b-10354750-images-thumbs&n=13"
+    },
+    {
+      "model": "Deep Blue",
+      "price": 269.99,
+      "company": "Marine Time",
+      "img": "https://avatars.mds.yandex.net/i?id=537d517ca578832ba2701df81d1433d958a81b84-4834298-images-thumbs&n=13"
+    },
+    {
+      "model": "Metro Style",
+      "price": 199.99,
+      "company": "City Style",
+      "img": "https://avatars.mds.yandex.net/i?id=b2e49fdf18a7f9142e351357317c579b-5827319-images-thumbs&n=13"
+    },
+    {
+      "model": "Adventure Pro",
+      "price": 329.99,
+      "company": "Active Gear",
+      "img": "https://avatars.mds.yandex.net/i?id=a08101c5957d431c4792ce855f32bd8f0330cf43a9d9bb54-5104820-images-thumbs&n=13"
+    },
+    {
+      "model": "Antique Bronze",
+      "price": 189.99,
+      "company": "Classic Timepieces",
+      "img": "https://avatars.mds.yandex.net/i?id=3638a0f97bbbb87f6fc2cbbfea0e4e055ae0cd92-9747317-images-thumbs&n=13"
+    },
+    {
+      "model": "Polar White",
+      "price": 159.99,
+      "company": "Modern Design",
+      "img": "https://avatars.mds.yandex.net/i?id=2558978fbee8d123bb815cac97e1fb95cfeea28d49c102c3-12842814-images-thumbs&n=13"
+    },
+    {
+      "model": "Platinum Luxe",
+      "price": 599.99,
+      "company": "Luxury Watches",
+      "img": "https://avatars.mds.yandex.net/i?id=6623176312b07091cacaeca55fe7deeb55774625-5109844-images-thumbs&n=13"
+    },
+    {
+      "model": "Chrono Tech",
+      "price": 459.99,
+      "company": "Innovate Tech",
+      "img": "https://avatars.mds.yandex.net/i?id=36a2fef86933de63408280954ecc4dcbc419d2f2-11515342-images-thumbs&n=13"
+    },
+    {
+      "model": "Silver Shine",
+      "price": 229.99,
+      "company": "Timeless Co.",
+      "img": "https://avatars.mds.yandex.net/i?id=02e3a145f6fd2fe4463de6b1253f7fc590b4ec976008c316-8325116-images-thumbs&n=13"
+    },
+    {
+      "model": "Navigator",
+      "price": 289.99,
+      "company": "Marine Time",
+      "img": "https://avatars.mds.yandex.net/i?id=ce785350633ec3876537b5acd5e4a659447823a5-7570549-images-thumbs&n=13"
+    },
+    {
+      "model": "Street Smart",
+      "price": 169.99,
+      "company": "City Style",
+      "img": "https://avatars.mds.yandex.net/i?id=613a3a9ffb7d5a1f6d9e4e20e4d7e7223f4ed166-5240021-images-thumbs&n=13"
+    },
+    {
+      "model": "Summit Tracker",
+      "price": 339.99,
+      "company": "Active Gear",
+      "img": "https://avatars.mds.yandex.net/i?id=090d8a217ae8ccb8c6bf41295c331ab9fe1cf2f4-10555891-images-thumbs&n=13"
+    },
+    {
+      "model": "Rustic Gold",
+      "price": 219.99,
+      "company": "Classic Timepieces",
+      "img": "https://avatars.mds.yandex.net/i?id=41b381a8b97e994b3dd97fc71cbdd78a62ea468c-5539996-images-thumbs&n=13"
+    },
+    {
+      "model": "Stealth Black",
+      "price": 179.99,
+      "company": "Modern Design",
+      "img": "https://avatars.mds.yandex.net/i?id=2a0000017a031a058ae9f955fa886680ff78-3691581-images-thumbs&n=13"
+    },
+    {
+      "model": "Titanium Edge",
+      "price": 649.99,
+      "company": "Luxury Watches",
+      "img": "https://avatars.mds.yandex.net/i?id=41f8a0c111ff13b2733e6fac5230c7a1cdd328d1-10653027-images-thumbs&n=13"
+    },
+    {
+      "model": "Digital Pro",
+      "price": 479.99,
+      "company": "Innovate Tech",
+      "img": "https://avatars.mds.yandex.net/i?id=613a3a9ffb7d5a1f6d9e4e20e4d7e7223f4ed166-5240021-images-thumbs&n=13"
+    },
+    {
+      "model": "Ivory Classic",
+      "price": 249.99,
+      "company": "Timeless Co.",
+      "img": "https://avatars.mds.yandex.net/i?id=430f5f2f64893ce35920449e772f63c0e23517cc-5582570-images-thumbs&n=13"
+    },
+    {
+      "model": "Wave Rider",
+      "price": 299.99,
+      "company": "Marine Time",
+      "img": "https://avatars.mds.yandex.net/i?id=2a0000017a031a058ae9f955fa886680ff78-3691581-images-thumbs&n=13"
+    },
+    {
+      "model": "Urban Vision",
+      "price": 209.99,
+      "company": "City Style",
+      "img": "https://avatars.mds.yandex.net/i?id=3638a0f97bbbb87f6fc2cbbfea0e4e055ae0cd92-9747317-images-thumbs&n=13"
+    },
+    {
+      "model": "Mountain King",
+      "price": 359.99,
+      "company": "Active Gear",
+      "img": "https://avatars.mds.yandex.net/i?id=9de2f82683062b305af21d98a331e9b040e3f72b-6948195-images-thumbs&n=13"
+    },
+    {
+      "model": "Copper Glow",
+      "price": 199.99,
+      "company": "Classic Timepieces",
+      "img": "https://avatars.mds.yandex.net/i?id=8444dbea5e05cf01c18ba2f3a3abeddd91fad288-9237918-images-thumbs&n=13"
+    },
+    {
+      "model": "Graphite Luxe",
+      "price": 169.99,
+      "company": "Modern Design",
+      "img": "https://avatars.mds.yandex.net/i?id=3bd884d5b07ed4f6627911f44769e46f9dc21b4b1f0d0b29-13108625-images-thumbs&n=13"
+    },
+    {
+      "model": "Royal Sapphire",
+      "price": 699.99,
+      "company": "Luxury Watches",
+      "img": "https://avatars.mds.yandex.net/i?id=3638a0f97bbbb87f6fc2cbbfea0e4e055ae0cd92-9747317-images-thumbs&n=13"
+    },
+    {
+      "model": "Hybrid Innovator",
+      "price": 499.99,
+      "company": "Innovate Tech",
+      "img": "https://avatars.mds.yandex.net/i?id=36b1da62fb5253a84e2506eb4ab7717559db8f01-7751470-images-thumbs&n=13"
+    },
+    {
+      "model": "Wave Rider",
+      "price": 299.99,
+      "company": "Marine Time",
+      "img": "https://avatars.mds.yandex.net/i?id=2a0000017a031a058ae9f955fa886680ff78-3691581-images-thumbs&n=13"
+    },
+    {
+      "model": "Titanium Edge",
+      "price": 649.99,
+      "company": "Luxury Watches",
+      "img": "https://avatars.mds.yandex.net/i?id=41f8a0c111ff13b2733e6fac5230c7a1cdd328d1-10653027-images-thumbs&n=13"
+    }
+   
+  ]
+

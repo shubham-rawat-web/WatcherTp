@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-image: url(6.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    backdrop-filter: brightness(0.5);
+}
+
+header {
+    background-image: url(4.jpg);
+    color: black;
+    text-align: center;
+    padding: 2rem 1rem;
+    background-size: cover;
+    background-position: center;
+}
+
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.service {
+    background:#f9f9f9bd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.service h2 {
+    margin-top: 0;
+    color: #0073e6;
+}
+
+.service p {
+    line-height: 1.6;
+    color:black
+}
+
+.cta {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.cta a {
+    display: inline-block;
+    background: #0073e6;
+    color: white;
+    padding: 0.8rem 2rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.cta a:hover {
+    background: #005bb5;
+}
+
+footer {
+    background: #1a1a1a;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
